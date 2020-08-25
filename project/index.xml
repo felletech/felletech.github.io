@@ -5,7 +5,7 @@
     <link>https://felletech.github.io/project/</link>
       <atom:link href="https://felletech.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 22:23:51 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 22:39:47 +0200</lastBuildDate>
     <image>
       <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,66 +13,66 @@
     </image>
     
     <item>
-      <title>DP</title>
-      <link>https://felletech.github.io/project/dp/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:51 +0200</pubDate>
-      <guid>https://felletech.github.io/project/dp/</guid>
+      <title>Quantum Cryptography and Related Technologies</title>
+      <link>https://felletech.github.io/project/quantum-cryptography-and-related-technologies/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:47 +0200</pubDate>
+      <guid>https://felletech.github.io/project/quantum-cryptography-and-related-technologies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>QC</title>
-      <link>https://felletech.github.io/project/qc/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:50 +0200</pubDate>
-      <guid>https://felletech.github.io/project/qc/</guid>
+      <title>Business Continuity Management</title>
+      <link>https://felletech.github.io/project/business-continuity-management/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/business-continuity-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GDPR</title>
-      <link>https://felletech.github.io/project/gdpr/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:34 +0200</pubDate>
-      <guid>https://felletech.github.io/project/gdpr/</guid>
+      <title>GDPR Implementation</title>
+      <link>https://felletech.github.io/project/gdpr-implementation/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/gdpr-implementation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ISM</title>
-      <link>https://felletech.github.io/project/ism/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:34 +0200</pubDate>
-      <guid>https://felletech.github.io/project/ism/</guid>
+      <title>Information Security Metrology</title>
+      <link>https://felletech.github.io/project/information-security-metrology/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/information-security-metrology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ITF</title>
-      <link>https://felletech.github.io/project/itf/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:34 +0200</pubDate>
-      <guid>https://felletech.github.io/project/itf/</guid>
+      <title>IT Forensics</title>
+      <link>https://felletech.github.io/project/it-forensics/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/it-forensics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>POC</title>
-      <link>https://felletech.github.io/project/poc/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:34 +0200</pubDate>
-      <guid>https://felletech.github.io/project/poc/</guid>
+      <title>Principle Operating Company Implementation</title>
+      <link>https://felletech.github.io/project/principle-operating-company-implementation/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/principle-operating-company-implementation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BCM</title>
-      <link>https://felletech.github.io/project/bcm/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:33 +0200</pubDate>
-      <guid>https://felletech.github.io/project/bcm/</guid>
+      <title>Data Protection</title>
+      <link>https://felletech.github.io/project/data-protection/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:44 +0200</pubDate>
+      <guid>https://felletech.github.io/project/data-protection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DIR</title>
-      <link>https://felletech.github.io/project/dir/</link>
-      <pubDate>Tue, 25 Aug 2020 22:23:33 +0200</pubDate>
-      <guid>https://felletech.github.io/project/dir/</guid>
+      <title>Cyber Incident Response</title>
+      <link>https://felletech.github.io/project/cyber-incident-response/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:08 +0200</pubDate>
+      <guid>https://felletech.github.io/project/cyber-incident-response/</guid>
       <description></description>
     </item>
     

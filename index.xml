@@ -5,12 +5,76 @@
     <link>https://felletech.github.io/</link>
       <atom:link href="https://felletech.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Felle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 22:39:47 +0200</lastBuildDate>
     <image>
       <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Felle</title>
       <link>https://felletech.github.io/</link>
     </image>
+    
+    <item>
+      <title>Quantum Cryptography and Related Technologies</title>
+      <link>https://felletech.github.io/project/quantum-cryptography-and-related-technologies/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:47 +0200</pubDate>
+      <guid>https://felletech.github.io/project/quantum-cryptography-and-related-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Continuity Management</title>
+      <link>https://felletech.github.io/project/business-continuity-management/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/business-continuity-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDPR Implementation</title>
+      <link>https://felletech.github.io/project/gdpr-implementation/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/gdpr-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Security Metrology</title>
+      <link>https://felletech.github.io/project/information-security-metrology/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/information-security-metrology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Forensics</title>
+      <link>https://felletech.github.io/project/it-forensics/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/it-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principle Operating Company Implementation</title>
+      <link>https://felletech.github.io/project/principle-operating-company-implementation/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/principle-operating-company-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Protection</title>
+      <link>https://felletech.github.io/project/data-protection/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:44 +0200</pubDate>
+      <guid>https://felletech.github.io/project/data-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber Incident Response</title>
+      <link>https://felletech.github.io/project/cyber-incident-response/</link>
+      <pubDate>Tue, 25 Aug 2020 22:39:08 +0200</pubDate>
+      <guid>https://felletech.github.io/project/cyber-incident-response/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A quantum light-emitting diode for the standard telecom window around 1,550 nm</title>

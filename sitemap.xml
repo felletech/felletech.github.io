@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://felletech.github.io/project/dp/</loc>
+    <lastmod>2020-08-25T22:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/</loc>
+    <lastmod>2020-08-25T22:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/</loc>
+    <lastmod>2020-08-25T22:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/qc/</loc>
+    <lastmod>2020-08-25T22:23:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/gdpr/</loc>
+    <lastmod>2020-08-25T22:23:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/ism/</loc>
+    <lastmod>2020-08-25T22:23:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/itf/</loc>
+    <lastmod>2020-08-25T22:23:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/poc/</loc>
+    <lastmod>2020-08-25T22:23:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/bcm/</loc>
+    <lastmod>2020-08-25T22:23:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felletech.github.io/project/dir/</loc>
+    <lastmod>2020-08-25T22:23:33+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://felletech.github.io/publication-type/2/</loc>
     <lastmod>2020-08-22T14:41:22+02:00</lastmod>
   </url>
@@ -54,11 +104,6 @@
   
   <url>
     <loc>https://felletech.github.io/author/m.-felle/</loc>
-    <lastmod>2020-08-22T14:41:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felletech.github.io/</loc>
     <lastmod>2020-08-22T14:41:22+02:00</lastmod>
   </url>
   

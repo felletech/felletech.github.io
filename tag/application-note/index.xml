@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>application note | Martin Felle</title>
+    <link>https://felletech.github.io/tag/application-note/</link>
+      <atom:link href="https://felletech.github.io/tag/application-note/index.xml" rel="self" type="application/rss+xml" />
+    <description>application note</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Martin Felle</copyright><lastBuildDate>Sun, 24 Apr 2022 22:39:45 +0200</lastBuildDate>
+    <image>
+      <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>application note</title>
+      <link>https://felletech.github.io/tag/application-note/</link>
+    </image>
+    
+    <item>
+      <title>Latest from our Labs: Parallel-pixel SNSPDs for Ultrafast and Photon-Number-Resolved Detection</title>
+      <link>https://felletech.github.io/project/11-lfol-pnr/</link>
+      <pubDate>Sun, 24 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/11-lfol-pnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest from our Labs: Faster SNSPDs, 24/7 operation and even better timing precision</title>
+      <link>https://felletech.github.io/project/12-lfol-uf-snspds/</link>
+      <pubDate>Sat, 23 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/12-lfol-uf-snspds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application note: High-speed superconducting detectors</title>
+      <link>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</link>
+      <pubDate>Mon, 25 Oct 2021 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

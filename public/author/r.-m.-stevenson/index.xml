@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. M. Stevenson | Martin Felle</title>
+    <link>https://felletech.github.io/author/r.-m.-stevenson/</link>
+      <atom:link href="https://felletech.github.io/author/r.-m.-stevenson/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. M. Stevenson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Martin Felle</copyright><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>R. M. Stevenson</title>
+      <link>https://felletech.github.io/author/r.-m.-stevenson/</link>
+    </image>
+    
+    <item>
+      <title>A quantum light-emitting diode for the standard telecom window around 1,550 nm</title>
+      <link>https://felletech.github.io/publication/muller-quantum-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://felletech.github.io/publication/muller-quantum-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Dot-Based Telecommunication-Wavelength Quantum Relay</title>
+      <link>https://felletech.github.io/publication/huwer-quantum-dot-based-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://felletech.github.io/publication/huwer-quantum-dot-based-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Growth Scheme for Quantum Dots with Low Fine-Structure Splitting at Various Emission Wavelengths</title>
+      <link>https://felletech.github.io/publication/skiba-szymanska-universal-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://felletech.github.io/publication/skiba-szymanska-universal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonance fluorescence from a telecom-wavelength quantum dot</title>
+      <link>https://felletech.github.io/publication/al-khuzheyri-resonance-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://felletech.github.io/publication/al-khuzheyri-resonance-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference with a quantum dot single-photon source and a laser at telecom wavelength</title>
+      <link>https://felletech.github.io/publication/felle-interference-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://felletech.github.io/publication/felle-interference-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

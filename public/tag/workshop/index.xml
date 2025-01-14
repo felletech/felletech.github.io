@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop | Martin Felle</title>
+    <link>https://felletech.github.io/tag/workshop/</link>
+      <atom:link href="https://felletech.github.io/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Martin Felle</copyright><lastBuildDate>Thu, 25 Aug 2022 22:39:45 +0200</lastBuildDate>
+    <image>
+      <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>workshop</title>
+      <link>https://felletech.github.io/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Workshop: How to count – DIY single-photon counting</title>
+      <link>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</link>
+      <pubDate>Thu, 25 Aug 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 2</title>
+      <link>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</link>
+      <pubDate>Sat, 02 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 1</title>
+      <link>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</link>
+      <pubDate>Fri, 25 Mar 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Quantum Optics and correlation function measurements </title>
+      <link>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</link>
+      <pubDate>Sat, 25 Dec 2021 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

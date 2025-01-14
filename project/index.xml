@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Martin Felle</title>
+    <link>https://felletech.github.io/project/</link>
+      <atom:link href="https://felletech.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Martin Felle</copyright><lastBuildDate>Fri, 25 Nov 2022 22:39:45 +0200</lastBuildDate>
+    <image>
+      <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://felletech.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>The ID281 Series – Continuous Operation</title>
+      <link>https://felletech.github.io/project/01-the-id281-series-continuous-operation/</link>
+      <pubDate>Fri, 25 Nov 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/01-the-id281-series-continuous-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022 Photonic Sensing Research Digest</title>
+      <link>https://felletech.github.io/project/02-news-2022-photonic-sensing-research-digest/</link>
+      <pubDate>Sat, 24 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/02-news-2022-photonic-sensing-research-digest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ID Quantique honoured by Laser World of Photonics 2022 Innovation Award</title>
+      <link>https://felletech.github.io/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</link>
+      <pubDate>Thu, 22 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use case: Towards a quantum internet</title>
+      <link>https://felletech.github.io/project/04-use-case-quantum-optics-towards-a-quantum-internet/</link>
+      <pubDate>Wed, 21 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/04-use-case-quantum-optics-towards-a-quantum-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: How to count – DIY single-photon counting</title>
+      <link>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</link>
+      <pubDate>Thu, 25 Aug 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use case: The power of entanglement</title>
+      <link>https://felletech.github.io/project/13-use-case-the-power-of-entanglement/</link>
+      <pubDate>Mon, 25 Jul 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/13-use-case-the-power-of-entanglement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest from our Labs: Parallel-pixel SNSPDs for Ultrafast and Photon-Number-Resolved Detection</title>
+      <link>https://felletech.github.io/project/11-lfol-pnr/</link>
+      <pubDate>Sun, 24 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/11-lfol-pnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest from our Labs: Faster SNSPDs, 24/7 operation and even better timing precision</title>
+      <link>https://felletech.github.io/project/12-lfol-uf-snspds/</link>
+      <pubDate>Sat, 23 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/12-lfol-uf-snspds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 2</title>
+      <link>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</link>
+      <pubDate>Sat, 02 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 1</title>
+      <link>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</link>
+      <pubDate>Fri, 25 Mar 2022 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Quantum Optics and correlation function measurements </title>
+      <link>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</link>
+      <pubDate>Sat, 25 Dec 2021 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application note: High-speed superconducting detectors</title>
+      <link>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</link>
+      <pubDate>Mon, 25 Oct 2021 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use case: Ultra-bright on-chip single-photon sources</title>
+      <link>https://felletech.github.io/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</link>
+      <pubDate>Fri, 25 Jun 2021 22:39:45 +0200</pubDate>
+      <guid>https://felletech.github.io/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

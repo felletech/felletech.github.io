@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use Case on Martin Felle</title>
+    <link>//localhost:1313/tags/use-case/</link>
+    <description>Recent content in Use Case on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/use-case/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use case: Towards a quantum internet</title>
+      <link>//localhost:1313/project/04-use-case-quantum-optics--towards-a-quantum-internet/</link>
+      <pubDate>Wed, 21 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/04-use-case-quantum-optics--towards-a-quantum-internet/</guid>
+      <description>(August 2021) Read how IDQ single-photon detectors enabled the successful entanglement of remote quantum memories, work of paramount importance in a future-proof quantum internet.</description>
+    </item>
+    <item>
+      <title>Use case: The power of entanglement</title>
+      <link>//localhost:1313/project/13-use-case-the-power-of-entanglement/</link>
+      <pubDate>Mon, 25 Jul 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/13-use-case-the-power-of-entanglement/</guid>
+      <description>(July 2022) How does quantum entanglement go from being an interesting scientific quirk, to something useful in the real world? Read this use case, exploring some of the latest work in making and using high-performance photonic entanglement sources; for applications from scalable quantum computing to material characterization in manufacturing next-gen photonic devices.</description>
+    </item>
+    <item>
+      <title>Use case: Ultra-bright on-chip single-photon sources</title>
+      <link>//localhost:1313/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</link>
+      <pubDate>Fri, 25 Jun 2021 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</guid>
+      <description>(June 2021) Read how development of a state-of-the-art on-chip source of telecom-wavelength single photons—crucial for a scalable quantum internet—was made possible with IDQ SNSPDs.</description>
+    </item>
+  </channel>
+</rss>

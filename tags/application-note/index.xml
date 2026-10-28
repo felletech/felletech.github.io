@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Note on Martin Felle</title>
+    <link>//localhost:1313/tags/application-note/</link>
+    <description>Recent content in Application Note on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Apr 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/application-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest from our Labs: Parallel-pixel SNSPDs for Ultrafast and Photon-Number-Resolved Detection</title>
+      <link>//localhost:1313/project/11-lfol-pnr/</link>
+      <pubDate>Sun, 24 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/11-lfol-pnr/</guid>
+      <description>(April 2022) Standard SNSPD designs are often limited to detection rates of tens of MHz at best. Read here about an innovative solution, found in the parallel-pixel detectors of IDQ’s ID281 Superconducting Nanowire Series.</description>
+    </item>
+    <item>
+      <title>Latest from our Labs: Faster SNSPDs, 24/7 operation and even better timing precision</title>
+      <link>//localhost:1313/project/12-lfol-uf-snspds/</link>
+      <pubDate>Sat, 23 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/12-lfol-uf-snspds/</guid>
+      <description>(April 2022) Read about IDQ’s latest R&amp;amp;D efforts to further improve the ID281 SNSPD offering. In particular, work based on a new set of processes and detector designs is presented, providing enhanced timing precision, even faster single-photon counting, and continuous 24/7 system operation.</description>
+    </item>
+    <item>
+      <title>Application note: High-speed superconducting detectors</title>
+      <link>//localhost:1313/project/07-application-note-high-speed-superconducting-detectors/</link>
+      <pubDate>Mon, 25 Oct 2021 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/07-application-note-high-speed-superconducting-detectors/</guid>
+      <description>(October 2021) Parallel-pixel detectors let you go beyond the speed limit set by the photon pile-up effect. In this application note, we explore how such a design is allowing IDQ’s ID281 SNSPDs to detect single photons faster than ever before.</description>
+    </item>
+  </channel>
+</rss>

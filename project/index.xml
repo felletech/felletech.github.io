@@ -1,120 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Martin Felle</title>
-    <link>https://felletech.github.io/project/</link>
-      <atom:link href="https://felletech.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Martin Felle</copyright><lastBuildDate>Fri, 25 Nov 2022 22:39:45 +0200</lastBuildDate>
-    <image>
-      <url>https://felletech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://felletech.github.io/project/</link>
-    </image>
-    
+    <title>Projects on Martin Felle</title>
+    <link>//localhost:1313/project/</link>
+    <description>Recent content in Projects on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Nov 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The ID281 Series – Continuous Operation</title>
-      <link>https://felletech.github.io/project/01-the-id281-series-continuous-operation/</link>
+      <link>//localhost:1313/project/01-the-id281-series--continuous-operation/</link>
       <pubDate>Fri, 25 Nov 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/01-the-id281-series-continuous-operation/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/01-the-id281-series--continuous-operation/</guid>
+      <description>(November 2022) IDQ launches a new family of ID281 SNSPDs, with the best in single-photon detection getting even better.</description>
     </item>
-    
     <item>
       <title>2022 Photonic Sensing Research Digest</title>
-      <link>https://felletech.github.io/project/02-news-2022-photonic-sensing-research-digest/</link>
+      <link>//localhost:1313/project/02-news-2022-photonic-sensing-research-digest/</link>
       <pubDate>Sat, 24 Sep 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/02-news-2022-photonic-sensing-research-digest/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/02-news-2022-photonic-sensing-research-digest/</guid>
+      <description>(September 2022) Read about some of the exciting and impactful photonic sensing work in 2022 so far, from researchers around the world.</description>
     </item>
-    
     <item>
       <title>ID Quantique honoured by Laser World of Photonics 2022 Innovation Award</title>
-      <link>https://felletech.github.io/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</link>
+      <link>//localhost:1313/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</link>
       <pubDate>Thu, 22 Sep 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</guid>
+      <description>(April 2022) IDQ are honoured to be winners of the Laser World of Photonics 2022 Innovation Award, in the Quantum Technologies category.</description>
     </item>
-    
     <item>
       <title>Use case: Towards a quantum internet</title>
-      <link>https://felletech.github.io/project/04-use-case-quantum-optics-towards-a-quantum-internet/</link>
+      <link>//localhost:1313/project/04-use-case-quantum-optics--towards-a-quantum-internet/</link>
       <pubDate>Wed, 21 Sep 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/04-use-case-quantum-optics-towards-a-quantum-internet/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/04-use-case-quantum-optics--towards-a-quantum-internet/</guid>
+      <description>(August 2021) Read how IDQ single-photon detectors enabled the successful entanglement of remote quantum memories, work of paramount importance in a future-proof quantum internet.</description>
     </item>
-    
     <item>
       <title>Workshop: How to count – DIY single-photon counting</title>
-      <link>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</link>
+      <link>//localhost:1313/project/05-workshop-how-to-count--diy-single-photon-counting/</link>
       <pubDate>Thu, 25 Aug 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/05-workshop-how-to-count-diy-single-photon-counting/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/05-workshop-how-to-count--diy-single-photon-counting/</guid>
+      <description>(July 2022) Workshop exploring how you can use LabVIEW with IDQ instrumentation to build and automate your single-photon experiments.</description>
     </item>
-    
     <item>
       <title>Use case: The power of entanglement</title>
-      <link>https://felletech.github.io/project/13-use-case-the-power-of-entanglement/</link>
+      <link>//localhost:1313/project/13-use-case-the-power-of-entanglement/</link>
       <pubDate>Mon, 25 Jul 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/13-use-case-the-power-of-entanglement/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/13-use-case-the-power-of-entanglement/</guid>
+      <description>(July 2022) How does quantum entanglement go from being an interesting scientific quirk, to something useful in the real world? Read this use case, exploring some of the latest work in making and using high-performance photonic entanglement sources; for applications from scalable quantum computing to material characterization in manufacturing next-gen photonic devices.</description>
     </item>
-    
     <item>
       <title>Latest from our Labs: Parallel-pixel SNSPDs for Ultrafast and Photon-Number-Resolved Detection</title>
-      <link>https://felletech.github.io/project/11-lfol-pnr/</link>
+      <link>//localhost:1313/project/11-lfol-pnr/</link>
       <pubDate>Sun, 24 Apr 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/11-lfol-pnr/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/11-lfol-pnr/</guid>
+      <description>(April 2022) Standard SNSPD designs are often limited to detection rates of tens of MHz at best. Read here about an innovative solution, found in the parallel-pixel detectors of IDQ’s ID281 Superconducting Nanowire Series.</description>
     </item>
-    
     <item>
       <title>Latest from our Labs: Faster SNSPDs, 24/7 operation and even better timing precision</title>
-      <link>https://felletech.github.io/project/12-lfol-uf-snspds/</link>
+      <link>//localhost:1313/project/12-lfol-uf-snspds/</link>
       <pubDate>Sat, 23 Apr 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/12-lfol-uf-snspds/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/12-lfol-uf-snspds/</guid>
+      <description>(April 2022) Read about IDQ’s latest R&amp;amp;D efforts to further improve the ID281 SNSPD offering. In particular, work based on a new set of processes and detector designs is presented, providing enhanced timing precision, even faster single-photon counting, and continuous 24/7 system operation.</description>
     </item>
-    
     <item>
       <title>Workshop Series: DIY Quantum Relays – Part 2</title>
-      <link>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</link>
+      <link>//localhost:1313/project/10-workshop-series-diy-quantum-relays--part-2/</link>
       <pubDate>Sat, 02 Apr 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/10-workshop-series-diy-quantum-relays-part-2/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/10-workshop-series-diy-quantum-relays--part-2/</guid>
+      <description>(April 2022) In this demonstration workshop, we look at the entanglement resources you need to complete a practical Quantum Relay.</description>
     </item>
-    
     <item>
       <title>Workshop Series: DIY Quantum Relays – Part 1</title>
-      <link>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</link>
+      <link>//localhost:1313/project/09-workshop-series-diy-quantum-relays--part-1/</link>
       <pubDate>Fri, 25 Mar 2022 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/09-workshop-series-diy-quantum-relays-part-1/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/09-workshop-series-diy-quantum-relays--part-1/</guid>
+      <description>(March 2022) Quantum Relays are an exciting technology, enabling long-haul quantum communication without the need for trusted-node intermediaries, as well as expanding the algorithmic repertoire available for distributed quantum computing. In this workshop, we explore some of the schemes for building a quantum relay, including the necessary components and sub-systems.</description>
     </item>
-    
     <item>
       <title>Workshop: Quantum Optics and correlation function measurements </title>
-      <link>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</link>
+      <link>//localhost:1313/project/08-workshop-quantum-optics-and-correlation-function-measurements/</link>
       <pubDate>Sat, 25 Dec 2021 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/08-workshop-quantum-optics-and-correlation-function-measurements/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/08-workshop-quantum-optics-and-correlation-function-measurements/</guid>
+      <description>(December 2021) In this workshop, we look at a crucial part of any quantum information researcher’s toolbox: the second- and third-order correlation functions, and how to measure them in quantum optics experiments.</description>
     </item>
-    
     <item>
       <title>Application note: High-speed superconducting detectors</title>
-      <link>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</link>
+      <link>//localhost:1313/project/07-application-note-high-speed-superconducting-detectors/</link>
       <pubDate>Mon, 25 Oct 2021 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/07-application-note-high-speed-superconducting-detectors/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/07-application-note-high-speed-superconducting-detectors/</guid>
+      <description>(October 2021) Parallel-pixel detectors let you go beyond the speed limit set by the photon pile-up effect. In this application note, we explore how such a design is allowing IDQ’s ID281 SNSPDs to detect single photons faster than ever before.</description>
     </item>
-    
     <item>
       <title>Use case: Ultra-bright on-chip single-photon sources</title>
-      <link>https://felletech.github.io/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</link>
+      <link>//localhost:1313/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</link>
       <pubDate>Fri, 25 Jun 2021 22:39:45 +0200</pubDate>
-      <guid>https://felletech.github.io/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/06-use-case-ultra-bright-on-chip-single-photon-sources/</guid>
+      <description>(June 2021) Read how development of a state-of-the-art on-chip source of telecom-wavelength single photons—crucial for a scalable quantum internet—was made possible with IDQ SNSPDs.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Martin Felle</title>
+    <link>//localhost:1313/tags/news/</link>
+    <description>Recent content in News on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Sep 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Photonic Sensing Research Digest</title>
+      <link>//localhost:1313/project/02-news-2022-photonic-sensing-research-digest/</link>
+      <pubDate>Sat, 24 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/02-news-2022-photonic-sensing-research-digest/</guid>
+      <description>(September 2022) Read about some of the exciting and impactful photonic sensing work in 2022 so far, from researchers around the world.</description>
+    </item>
+    <item>
+      <title>ID Quantique honoured by Laser World of Photonics 2022 Innovation Award</title>
+      <link>//localhost:1313/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</link>
+      <pubDate>Thu, 22 Sep 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/03-news-id-quantique-honoured-by-laser-world-of-photonics-2022-innovation-award/</guid>
+      <description>(April 2022) IDQ are honoured to be winners of the Laser World of Photonics 2022 Innovation Award, in the Quantum Technologies category.</description>
+    </item>
+  </channel>
+</rss>

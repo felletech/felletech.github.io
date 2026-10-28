@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Launch on Martin Felle</title>
+    <link>//localhost:1313/tags/product-launch/</link>
+    <description>Recent content in Product Launch on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Nov 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/product-launch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The ID281 Series – Continuous Operation</title>
+      <link>//localhost:1313/project/01-the-id281-series--continuous-operation/</link>
+      <pubDate>Fri, 25 Nov 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/01-the-id281-series--continuous-operation/</guid>
+      <description>(November 2022) IDQ launches a new family of ID281 SNSPDs, with the best in single-photon detection getting even better.</description>
+    </item>
+  </channel>
+</rss>

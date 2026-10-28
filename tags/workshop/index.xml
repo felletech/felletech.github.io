@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Martin Felle</title>
+    <link>//localhost:1313/tags/workshop/</link>
+    <description>Recent content in Workshop on Martin Felle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Aug 2022 22:39:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop: How to count – DIY single-photon counting</title>
+      <link>//localhost:1313/project/05-workshop-how-to-count--diy-single-photon-counting/</link>
+      <pubDate>Thu, 25 Aug 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/05-workshop-how-to-count--diy-single-photon-counting/</guid>
+      <description>(July 2022) Workshop exploring how you can use LabVIEW with IDQ instrumentation to build and automate your single-photon experiments.</description>
+    </item>
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 2</title>
+      <link>//localhost:1313/project/10-workshop-series-diy-quantum-relays--part-2/</link>
+      <pubDate>Sat, 02 Apr 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/10-workshop-series-diy-quantum-relays--part-2/</guid>
+      <description>(April 2022) In this demonstration workshop, we look at the entanglement resources you need to complete a practical Quantum Relay.</description>
+    </item>
+    <item>
+      <title>Workshop Series: DIY Quantum Relays – Part 1</title>
+      <link>//localhost:1313/project/09-workshop-series-diy-quantum-relays--part-1/</link>
+      <pubDate>Fri, 25 Mar 2022 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/09-workshop-series-diy-quantum-relays--part-1/</guid>
+      <description>(March 2022) Quantum Relays are an exciting technology, enabling long-haul quantum communication without the need for trusted-node intermediaries, as well as expanding the algorithmic repertoire available for distributed quantum computing. In this workshop, we explore some of the schemes for building a quantum relay, including the necessary components and sub-systems.</description>
+    </item>
+    <item>
+      <title>Workshop: Quantum Optics and correlation function measurements </title>
+      <link>//localhost:1313/project/08-workshop-quantum-optics-and-correlation-function-measurements/</link>
+      <pubDate>Sat, 25 Dec 2021 22:39:45 +0200</pubDate>
+      <guid>//localhost:1313/project/08-workshop-quantum-optics-and-correlation-function-measurements/</guid>
+      <description>(December 2021) In this workshop, we look at a crucial part of any quantum information researcher’s toolbox: the second- and third-order correlation functions, and how to measure them in quantum optics experiments.</description>
+    </item>
+  </channel>
+</rss>
